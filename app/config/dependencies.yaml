@@ -1,0 +1,10 @@
+dependencies:
+  controllers:
+    ExampleController: App\controller\ExampleController
+  services:
+    ExampleService: App\service\ExampleService
+  repository:
+    ExampleRepository: App\repository\ExampleRepository
+  core:
+    Database: App\core\Database
+    PDO: PDO
