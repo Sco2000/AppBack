@@ -2,7 +2,7 @@
     "name": "scoo/appback",
     "description": "Backend framework PHP léger pour la gestion de projets web.",
     "keywords": ["php", "framework", "mvc", "backend", "router", "orm"],
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "homepage": "https://github.com/Sco2000/appback",
     "authors": [
